@@ -28,36 +28,43 @@ p{
 #tata{ 
   width: 500px;
   height: 300px; 
+  color: #32CD32;
 } 
 
 #rj{ 
   width: 500px; 
   height: 300px; 
+  color: red;  
 }
 
 #koya{
   width: 500px; 
   height: 300px;
+  color: #87CEEB; 
 } 
 
 #shooky{
   width: 300px; 
   height: 300px; 
+  color: #A0522D; 
 }
 
 #mang{ 
   width: 500px; 
   height: 300px; 
+  color: #BA55D3;
 } 
 
 #chimmy{
   width: 500px; 
   height: 300px; 
+  color: #DAA520;
 } 
 
 #cooky{ 
   width: 500px; 
   height: 300px; 
+  color: pink;
 } 
 
 #van{ 
